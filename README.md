@@ -1,9 +1,12 @@
 <h1 style="background-color:rgb(255, 0, 0);">THIS DOES NOT CURRENTLY WORK!!</h1>
+If you want to use this, please download from the guy who initally created this library.
 
 # dronelib-CameraSupport
 
 This is a fork of the dronelib library intended for controlling a Ultra-X + WiFi drone, but with wifi support.
-This library or the
+This library was tested also on a Ultra-X + WiFi drone *BUT* it should also work on other drones, provided that it works with the Ultra-X + WiFi app
+
+Some possible drones are: Propel 1890, 
 
 ## Features
 
