@@ -1,8 +1,15 @@
-# dronelib
+<style>
+  color: Tomato;
+  
+}
+</style>
 
-Control Chinese drones with Node.js.
+<h1 class="p1">THIS DOES NOT CURRENTLY WORK!!</h1>
 
-I tested this on a "Propel Ultra-X + WiFi", but it should work on any similar model.
+# dronelib-CameraSupport
+
+This is a fork of the dronelib library intended for controlling a Ultra-X + WiFi drone, but with wifi support.
+This library or the
 
 ## Features
 
