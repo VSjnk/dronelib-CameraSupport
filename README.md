@@ -6,7 +6,7 @@ If you want to use this, please download from the guy who initally created this 
 This is a fork of the dronelib library intended for controlling a Ultra-X + WiFi drone, but with wifi support.
 This library was tested also on a Ultra-X + WiFi drone *BUT* it should also work on other drones, provided that it works with the Ultra-X + WiFi app
 
-Some possible drones are: Propel 1890, 
+Some possible drones are: Propel 1890, The Voyage Aeronautics VA-2750, The Asend Aeronautics 2000 series and The Asend Aeronautics hover hawk
 
 ## Features
 
