@@ -1,10 +1,4 @@
-<style>
-  color: Tomato;
-  
-}
-</style>
-
-<h1 class="p1">THIS DOES NOT CURRENTLY WORK!!</h1>
+<h1 style="color:Red;">THIS DOES NOT CURRENTLY WORK!!</h1>
 
 # dronelib-CameraSupport
 
